@@ -12,13 +12,13 @@
     "content_site": "Kompas.com",
     "content_site_id": 88,
     "content_category": "Prov",
-    "content_subcategory": "Rajaspin",
+    "content_subcategory": "Asia2000",
     "content_location": "Di",
     "content_author": "",
     "content_aid1": "",
     "content_aid2": "",
     "content_aid3": "",
-    "content_editor": "Rajaspin ",
+    "content_editor": "Asia2000 ",
     "content_eid": "7768",
     "content_lipsus": "",
     "content_lipsus_id": "",
@@ -30,7 +30,7 @@
     "content_Date_PubDate": "04",
     "content_source": "",
     "content_tag": "Jakendor",
-    "content_title": "Rajaspin 🌏 Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya",
+    "content_title": "Asia2000 ✈️ Link Agen  Situs  maxwin Server Thailand Resmi 2026",
     "content_tags": "",
     "content_total_words": 452,
     "content_draft_type": "0",
@@ -41,7 +41,7 @@
     "content_current_page": 1
 });</script>   
 
-<title>Rajaspin 🌏 Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya</title>
+<title>Asia2000 ✈️ Link Agen  Situs  maxwin Server Thailand Resmi 2026</title>
 <link href="//securepubads.g.doubleclick.net" rel="dns-prefetch">
 <link href="//asset.kompas.com" rel="dns-prefetch">
 <link href="//adsimg.kompas.com" rel="dns-prefetch">
@@ -50,12 +50,12 @@
 <link href="//apis.kompas.com" rel="dns-prefetch"><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width">
-<meta content="Rajaspin Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya situs resmi login alternatif untuk Toto 4D, bandar toto, dan  online terpercaya.."/>
+<meta content="Asia2000 adalah link situs  resmi 2026 yang menghadirkan pengalaman bermain terbaik dengan server Thailand paling stabil. Didesain khusus untuk para pecinta slot online, OVO99 menawarkan peluang maxwin besar, tampilan modern, dan transaksi cepat 24 jam. Dengan koleksi game populer dari provider ternama, kamu bisa menikmati sensasi bermain yang aman, seru, dan menguntungkan setiap saat. Bergabunglah sekarang dan rasakan sendiri keberuntungan di OVO99 tempatnya para pemenang sejati!"/>
 <link rel="prefetch" href="https://asia2000-login.github.io/" as="document"/>
 <link rel="amphtml" href="https://ampkadowin.site/" />  
 <meta name="googlebot-news" content="index, follow" />
 <meta  name="googlebot" content="index, follow" />
-<meta name="author" content="Rajaspin">
+<meta name="author" content="Asia2000">
 <meta name="robots" content="index, follow" />
 <meta name="robots" content="max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 <meta name="language" content="id" />
@@ -67,8 +67,8 @@
 <!-- S:fb meta -->
 <meta property="og:type" content="article" />
 <meta property="og:image" content="https://ik.imagekit.io/hosterin/terbaru.png" />
-<meta property="og:title" content="Rajaspin 🌏 Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya" />
-<meta property="og:description" content="Rajaspin Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya situs resmi login alternatif untuk Toto 4D, bandar toto, dan  online terpercaya..">
+<meta property="og:title" content="Asia2000 ✈️ Link Agen  Situs  maxwin Server Thailand Resmi 2026" />
+<meta property="og:description" content="Asia2000 adalah link situs  resmi 2026 yang menghadirkan pengalaman bermain terbaik dengan server Thailand paling stabil. Didesain khusus untuk para pecinta slot online, OVO99 menawarkan peluang maxwin besar, tampilan modern, dan transaksi cepat 24 jam. Dengan koleksi game populer dari provider ternama, kamu bisa menikmati sensasi bermain yang aman, seru, dan menguntungkan setiap saat. Bergabunglah sekarang dan rasakan sendiri keberuntungan di OVO99 tempatnya para pemenang sejati!">
 <meta property="og:url" content="https://asia2000-login.github.io/" />
 <meta property="og:site_name" content="KOMPAS.com" />
 <meta property="fb:app_id" content="324557847592228" />
@@ -78,18 +78,18 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@kompascom" />
 <meta name="twitter:creator" content="@kompascom">
-<meta name="twitter:title" content="Rajaspin 🌏 Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya" />
-<meta name="twitter:description" content="Rajaspin Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya situs resmi login alternatif untuk Toto 4D, bandar toto, dan  online terpercaya.." />
+<meta name="twitter:title" content="Asia2000 ✈️ Link Agen  Situs  maxwin Server Thailand Resmi 2026" />
+<meta name="twitter:description" content="Asia2000 adalah link situs  resmi 2026 yang menghadirkan pengalaman bermain terbaik dengan server Thailand paling stabil. Didesain khusus untuk para pecinta slot online, OVO99 menawarkan peluang maxwin besar, tampilan modern, dan transaksi cepat 24 jam. Dengan koleksi game populer dari provider ternama, kamu bisa menikmati sensasi bermain yang aman, seru, dan menguntungkan setiap saat. Bergabunglah sekarang dan rasakan sendiri keberuntungan di OVO99 tempatnya para pemenang sejati!" />
 <meta name="twitter:image" content="https://ik.imagekit.io/hosterin/terbaru.png" />
 <!-- E:tweeter card -->
 
 <meta name="content_category" content="Prov" />
-<meta name="content_subcategory" content="Rajaspin" />
+<meta name="content_subcategory" content="Asia2000" />
 <meta name="content_location" content="Di" />
 <meta name="content_author_id" content="" />
 <meta name="content_author" content="" />
 <meta name="content_editor_id" content="7768" />
-<meta name="content_editor" content="Rajaspin " />
+<meta name="content_editor" content="Asia2000 " />
 <meta name="content_lipsus" content="" />
 <meta name="content_lipsus_id" content="" />
 <meta name="content_sensi" content="" />
@@ -162,8 +162,8 @@ window.jixie_o = {
 			parameters:{
 				itemid:"20250904172000388", 
 				keywords:array_keywords,
-				title:"Rajaspin 🌏 Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya",
-				description: "Rajaspin Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya situs resmi login alternatif untuk Toto 4D, bandar toto, dan  online terpercaya..",
+				title:"Asia2000 ✈️ Link Agen  Situs  maxwin Server Thailand Resmi 2026",
+				description: "Asia2000 adalah link situs  resmi 2026 yang menghadirkan pengalaman bermain terbaik dengan server Thailand paling stabil. Didesain khusus untuk para pecinta slot online, OVO99 menawarkan peluang maxwin besar, tampilan modern, dan transaksi cepat 24 jam. Dengan koleksi game populer dari provider ternama, kamu bisa menikmati sensasi bermain yang aman, seru, dan menguntungkan setiap saat. Bergabunglah sekarang dan rasakan sendiri keberuntungan di OVO99 tempatnya para pemenang sejati!",
 				category: "Prov"
 			}
 		});
@@ -328,7 +328,7 @@ var rl_adx_val = '';
 
 
 <script type="application/ld+json">
-{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.kompas.com\/jawa-barat\/read\/2025\/09\/04\/172000388\/kompol-cosmas-dipecat-tidak-hormat-pernah-terseret-kasus-penyiraman#"},"headline":"Rajaspin 🌏 Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya","image":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/crops\/iG7a3sTiZT7pAljmYKLfoJbEnJQ=\/0x0:0x0\/780x390\/data\/photo\/2025\/09\/03\/68b836bc52796.jpeg","height":500,"width":750},"datePublished":"2025-09-04T10:20:00+00:00","dateModified":"2025-09-04T10:20:00+00:00","author":{"@type":"Person","name":"Rajaspin ","url":"https:\/\/indeks.kompas.com\/profile\/"},"publisher":{"@type":"Organization","name":"Kompas.com","logo":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/data\/2017\/wp\/images\/logo-kompascom-jmd.png","width":255,"height":55}},"description":"Rajaspin Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya situs resmi login alternatif untuk Toto 4D, bandar toto, dan  online terpercaya.."}</script>
+{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.kompas.com\/jawa-barat\/read\/2025\/09\/04\/172000388\/kompol-cosmas-dipecat-tidak-hormat-pernah-terseret-kasus-penyiraman#"},"headline":"Asia2000 ✈️ Link Agen  Situs  maxwin Server Thailand Resmi 2026","image":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/crops\/iG7a3sTiZT7pAljmYKLfoJbEnJQ=\/0x0:0x0\/780x390\/data\/photo\/2025\/09\/03\/68b836bc52796.jpeg","height":500,"width":750},"datePublished":"2025-09-04T10:20:00+00:00","dateModified":"2025-09-04T10:20:00+00:00","author":{"@type":"Person","name":"Asia2000 ","url":"https:\/\/indeks.kompas.com\/profile\/"},"publisher":{"@type":"Organization","name":"Kompas.com","logo":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/data\/2017\/wp\/images\/logo-kompascom-jmd.png","width":255,"height":55}},"description":"Asia2000 adalah link situs  resmi 2026 yang menghadirkan pengalaman bermain terbaik dengan server Thailand paling stabil. Didesain khusus untuk para pecinta slot online, OVO99 menawarkan peluang maxwin besar, tampilan modern, dan transaksi cepat 24 jam. Dengan koleksi game populer dari provider ternama, kamu bisa menikmati sensasi bermain yang aman, seru, dan menguntungkan setiap saat. Bergabunglah sekarang dan rasakan sendiri keberuntungan di OVO99 tempatnya para pemenang sejati!"}</script>
 
 
 <script type="application/ld+json">
@@ -425,7 +425,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                         <a href="https://asia2000-login.github.io/" data-google-interstitial="false">
                                                             <style>.logo img {width:auto;}.logo {width:auto;}</style>
 
-                                                            <img src="https://ik.imagekit.io/hosterin/logo-Kadobet.png?updatedAt=1748328865050" alt="Rajaspin 🌏 Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya">
+                                                            <img src="https://ik.imagekit.io/hosterin/logo-Kadobet.png?updatedAt=1748328865050" alt="Asia2000 ✈️ Link Agen  Situs  maxwin Server Thailand Resmi 2026">
                                                                     
 
                                                     </a>
@@ -440,7 +440,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                                 id="fcSearch">
                                 <div class="searchBox-wrap">
                                     <input type="text" name="q" class="header-search-input" value=""
-                                        placeholder="Cari Tutorial di Rajaspin" autocomplete="off"
+                                        placeholder="Cari Tutorial di Asia2000" autocomplete="off"
                                         list="populer" id="cSearch">
                                     <input class="header-search-button" type="submit" name="">
                                     <span class="icon-svg icon-search"></span>
@@ -497,7 +497,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 
                                         <!-- play icon -->
                     <div class="menu-item menu-plus">
-	                    <a href="https://plus.kompas.com/detail?source=top_navbar" class="button-default" role="link" id="menu-plus" aria-label="Rajaspin">
+	                    <a href="https://plus.kompas.com/detail?source=top_navbar" class="button-default" role="link" id="menu-plus" aria-label="Asia2000">
 	                        <span class="icon-svg icon-plus" aria-hidden="true">
 	                            <img src="https://asset.kompas.com/data/2025/03/05/1535/icon-kplus.gif" alt="Icon Kompascom+">
 	                        </span>
@@ -526,7 +526,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                                             </a>
                                         </li> -->
                         
-                                                                                    <li><a href="https://ampkadowin.site/"><span><i class="sso__icon__subscription"></i> Gabung Rajaspin <i class="sso__badge__inline"></i></span></a></li>
+                                                                                    <li><a href="https://ampkadowin.site/"><span><i class="sso__icon__subscription"></i> Gabung Asia2000 <i class="sso__badge__inline"></i></span></a></li>
                                                                                 
                                         <li></li>
                                         <li><a href="https://activity.kompas.com/saved"><span><i class="sso__icon__bookmark"></i> Konten yang disimpan</span></a></li>
@@ -542,7 +542,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                         </ul>
                     </div>
                                         <div class="kid__wrap">
-                        <a target="_blank" href="https://ampkadowin.site/" rel="nofollow" class="kid__button">SUBSCRIBE Rajaspin</a>
+                        <a target="_blank" href="https://ampkadowin.site/" rel="nofollow" class="kid__button">SUBSCRIBE Asia2000</a>
                     </div>
                                     </div>
             </div>
@@ -554,7 +554,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
         <!-- (ads.skin.full) -->
         <div class="container clearfix nav__wrap">
             <div class="logo logo--sticky">
-                                    <a href="https://asia2000-login.github.io/"><img class="lozad" data-src="https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="Rajaspin 🌏 Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya" /></a>
+                                    <a href="https://asia2000-login.github.io/"><img class="lozad" data-src="https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="Asia2000 ✈️ Link Agen  Situs  maxwin Server Thailand Resmi 2026" /></a>
                             </div>
 
               
@@ -857,7 +857,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
     </li>
 </ul>
 
-<a href="https://ampkadowin.site/" rel="nofollow"class="menu-plus-sticky">Membership Rajaspin</a>
+<a href="https://ampkadowin.site/" rel="nofollow"class="menu-plus-sticky">Membership Asia2000</a>
 
 <!-- css sublink nav -->
 <link rel="stylesheet" href="https://asset.kompas.com/data/2025/nusatirta/desktop/css/submenu-nusatirta.css">
@@ -988,7 +988,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
             </div>
             
         </div>
-                <p class="social--dshare" id="dsharetitle">Rajaspin 🌏 Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya</p>
+                <p class="social--dshare" id="dsharetitle">Asia2000 ✈️ Link Agen  Situs  maxwin Server Thailand Resmi 2026</p>
                         <div class="comment__read__bar">
             <span>Komentar: </span>
             <div class="social social--article clearfix">
@@ -1056,7 +1056,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
         
         
         <!-- read title-->
-        <h1 class="read__title">Rajaspin 🌏 Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya</h1>
+        <h1 class="read__title">Asia2000 ✈️ Link Agen  Situs  maxwin Server Thailand Resmi 2026</h1>
     </div>
 </div>
 
@@ -1066,7 +1066,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
         <!-- read header-->
         <div class="read__header col-offset-fluid clearfix">
             <div class="col-bs10-10">
-                <div class="read__time"><a href="https://asia2000-login.github.io/">Rajaspin</a></div>
+                <div class="read__time"><a href="https://asia2000-login.github.io/">Asia2000</a></div>
             </div>
             
             <div class="col-bs10-10">            </div>
@@ -1077,7 +1077,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 <link rel="stylesheet" href="https://asset.kompas.com/data/2017/wp/css/kcm2019-photo-article.min.css?v=10" type="text/css">
 <div class="cover-photo -gallery" data-photostyle="">
     <div class="photo__wrap">
-                    <img width="780" height="520" src="https://ik.imagekit.io/hosterin/terbaru.png" alt="Rajaspin 🌏 Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya">
+                    <img width="780" height="520" src="https://ik.imagekit.io/hosterin/terbaru.png" alt="Asia2000 ✈️ Link Agen  Situs  maxwin Server Thailand Resmi 2026">
                        
             </div>
 </div>
@@ -1219,7 +1219,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
     <div class="most__list clearfix"> 
         <div class="most__count">2</div>
         <a class="most__link" href="#">
-            <div class="most__title">Permainan Rajaspin memiliki animasi yang halus dan tampilan yang bersih; itu ringan untuk dimainkan di smartphone, dan setiap putaran berjalan lancar tanpa gangguan.</div> 
+            <div class="most__title">Permainan Asia2000 memiliki animasi yang halus dan tampilan yang bersih; itu ringan untuk dimainkan di smartphone, dan setiap putaran berjalan lancar tanpa gangguan.</div> 
         </a>
     </div>
 
@@ -1439,7 +1439,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                                     <article class="cyber-card">
 
                                         <header class="cyber-header">
-                                            <h2 class="cyber-title">Rajaspin 🌏 Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya</h2>
+                                            <h2 class="cyber-title">Asia2000 ✈️ Link Agen  Situs  maxwin Server Thailand Resmi 2026</h2>
                                             <div class="cyber-status">
                                                 <span class="status-dot"></span> LIVE
                                             </div>
@@ -1447,7 +1447,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 
                                         <div class="cyber-body">
              <p class="Team666">
-<a href="https://asia2000-login.github.io/">Rajaspin</a> kini hadir sebagai solusi utama bagi para pemain yang menginginkan pengalaman bermain stabil, aman, dan responsif. Sebagai link resmi situs  gacor hari ini, platform ini menjamin peluang maxwin yang kompetitif melalui integrasi sistem tercanggih dari agen 88 terpercaya. Dengan navigasi yang mudah digunakan oleh berbagai demografi, Rajaspin telah menjadi pusat link  favorit se-Asia yang menawarkan kelancaran akses tanpa hambatan bagi siapa saja yang mencari layanan hiburan digital berkualitas tinggi.
+<a href="https://asia2000-login.github.io/">Asia2000</a> kini hadir sebagai solusi utama bagi para pemain yang menginginkan pengalaman bermain stabil, aman, dan responsif. Sebagai link resmi situs  gacor hari ini, platform ini menjamin peluang maxwin yang kompetitif melalui integrasi sistem tercanggih dari agen 88 terpercaya. Dengan navigasi yang mudah digunakan oleh berbagai demografi, Asia2000 telah menjadi pusat link  favorit se-Asia yang menawarkan kelancaran akses tanpa hambatan bagi siapa saja yang mencari layanan hiburan digital berkualitas tinggi.
 </p>
 
 <br>
@@ -1651,68 +1651,68 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                             <div class="team666-panel-content">
 
           <div class="team666-header">
-    <h2>FAQ Rajaspin</h2>
-    <span>Rajaspin SYSTEM FAQ</span>
+    <h2>FAQ Asia2000</h2>
+    <span>Asia2000 SYSTEM FAQ</span>
 </div>
 
 <div class="team666-faq-list">
 
     <div class="team666-item">
         <button class="team666-question">
-            Apa Itu Rajaspin?
+            Apa Itu Asia2000?
             <span class="team666-icon">+</span>
         </button>
         <div class="team666-answer">
             <div class="team666-answer-inner">
-                <p>Rajaspin dikenal sebagai salah satu platform permainan  online yang sering disebut komunitas pemain sebagai situs  online karena menyediakan berbagai pilihan game populer dengan sistem server stabil.</p>
+                <p>Asia2000 dikenal sebagai salah satu platform permainan  online yang sering disebut komunitas pemain sebagai situs  online karena menyediakan berbagai pilihan game populer dengan sistem server stabil.</p>
             </div>
         </div>
     </div>
 
     <div class="team666-item">
         <button class="team666-question">
-            Mengapa Rajaspin Disebut Sebagai Situs  Online?
+            Mengapa Asia2000 Disebut Sebagai Situs  Online?
             <span class="team666-icon">+</span>
         </button>
         <div class="team666-answer">
             <div class="team666-answer-inner">
-                <p>Karena platform Rajaspin menghadirkan banyak permainan  dari provider terkenal dengan tingkat kemenangan yang tinggi serta fitur bonus menguntungkan didukung performa server yang cepat dan responsif.</p>
+                <p>Karena platform Asia2000 menghadirkan banyak permainan  dari provider terkenal dengan tingkat kemenangan yang tinggi serta fitur bonus menguntungkan didukung performa server yang cepat dan responsif.</p>
             </div>
         </div>
     </div>
 
     <div class="team666-item">
         <button class="team666-question">
-            Apa Saja Fitur Yang Tersedia Di Rajaspin?
+            Apa Saja Fitur Yang Tersedia Di Asia2000?
             <span class="team666-icon">+</span>
         </button>
         <div class="team666-answer">
             <div class="team666-answer-inner">
-                <p>Beberapa fitur yang tersedia di Rajaspin antara lain berbagai pilihan permainan , informasi RTP game, sistem permainan cepat, serta navigasi platform yang mudah digunakan.</p>
+                <p>Beberapa fitur yang tersedia di Asia2000 antara lain berbagai pilihan permainan , informasi RTP game, sistem permainan cepat, serta navigasi platform yang mudah digunakan.</p>
             </div>
         </div>
     </div>
 
     <div class="team666-item">
         <button class="team666-question">
-            Apakah Rajaspin Bisa Diakses Melalui Perangkat Mobile?
+            Apakah Asia2000 Bisa Diakses Melalui Perangkat Mobile?
             <span class="team666-icon">+</span>
         </button>
         <div class="team666-answer">
             <div class="team666-answer-inner">
-                <p>Bisa. Platform Rajaspin sudah dioptimalkan untuk perangkat mobile sehingga permainan dapat diakses dengan lancar melalui smartphone, tablet, maupun desktop.</p>
+                <p>Bisa. Platform Asia2000 sudah dioptimalkan untuk perangkat mobile sehingga permainan dapat diakses dengan lancar melalui smartphone, tablet, maupun desktop.</p>
             </div>
         </div>
     </div>
 
     <div class="team666-item">
         <button class="team666-question">
-            Bagaimana Cara Mendaftar di Rajaspin?
+            Bagaimana Cara Mendaftar di Asia2000?
             <span class="team666-icon">+</span>
         </button>
         <div class="team666-answer">
             <div class="team666-answer-inner">
-                <p>Pengguna cukup mengakses link resmi Rajaspin, melakukan pendaftaran akun dengan data dasar, lalu login untuk mulai memilih permainan  yang tersedia di dalam platform.</p>
+                <p>Pengguna cukup mengakses link resmi Asia2000, melakukan pendaftaran akun dengan data dasar, lalu login untuk mulai memilih permainan  yang tersedia di dalam platform.</p>
             </div>
         </div>
     </div>
@@ -1786,7 +1786,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 
                 <div class="footerLogo">
                     <a href="https://asia2000-login.github.io/" data-google-interstitial="false">
-                        <img class="lozad" data-src="https://ik.imagekit.io/hosterin/logo-Kadobet.png?updatedAt=1748328865050" alt="Rajaspin 🌏 Link Resmi Situs  Gacor Hari Ini Maxwin Agen 88 Terpercaya" width="207" height="26">
+                        <img class="lozad" data-src="https://ik.imagekit.io/hosterin/logo-Kadobet.png?updatedAt=1748328865050" alt="Asia2000 ✈️ Link Agen  Situs  maxwin Server Thailand Resmi 2026" width="207" height="26">
                     </a>
                 </div>
 
@@ -1891,7 +1891,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 
                 <div class="footerNewsletter">
                     <div class="footerNewsletter-title">
-                        Dapatkan Keseruan dan Permainan Menyenangkan di Rajaspin           </div>
+                        Dapatkan Keseruan dan Permainan Menyenangkan di Asia2000           </div>
 
                     <div class="footerNewsletter-cta">
                         <a href="https://ampkadowin.site/"class="footerNewsletter-link" rel="nofollow">
@@ -1951,9 +1951,9 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                 
                 <div class="footerMenu">
                     <ul class="footerMenu-wrap">
-                        <li><a href="/" class="footerMenu-link" target="_blank">Rajaspin</a></li>
-                        <li><a href="/" class="footerMenu-link" target="_blank">LOGIN Rajaspin</a></li>
-                        <li><a href="/" class="footerMenu-link" target="_blank">Rajaspin SLOT</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">Asia2000</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">LOGIN Asia2000</a></li>
+                        <li><a href="/" class="footerMenu-link" target="_blank">Asia2000 SLOT</a></li>
                         <li><a href="/" class="footerMenu-link" target="_blank">Kompasiana</a></li>
                         <li><a href="/" class="footerMenu-link" target="_blank">KG Media</a></li>
                         <li><a href="/" class="footerMenu-link" target="_blank">KGNow!</a></li>
@@ -2003,7 +2003,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                 </ul>
             </div>
             <div class="footerCopyright">
-                <p>Copyright 2026 Rajaspin. All Rights Reserved.</p>
+                <p>Copyright 2026 Asia2000. All Rights Reserved.</p>
             </div>
         </div>
     </div>
@@ -2540,7 +2540,7 @@ if (onSubmitNps !== null) {
         <div class="kgmModal-body">
 
             <div class="kgmModal-center">
-                <div class="kgmModal-title" id="kgmModal-title">Join Sekarang Juga Untuk Info Lebih Lanjut Hanya Di Rajaspin</div>
+                <div class="kgmModal-title" id="kgmModal-title">Join Sekarang Juga Untuk Info Lebih Lanjut Hanya Di Asia2000</div>
             </div>
 
             <div class="kgmModal-onetap">
